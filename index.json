@@ -1,0 +1,11 @@
+{
+  "org": "adamchainz",
+  "repo": "django-cors-headers",
+  "versions": [
+    {
+      "commit": "8d96f0172cfa611124c4dc6eee14ee4a45e67589",
+      "tag": "",
+      "parsed_at": "2026-10-15T08:57:01.642214+00:00"
+    }
+  ]
+}
