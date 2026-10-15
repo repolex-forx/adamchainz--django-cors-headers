@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/django-cors-headers/commit/8d96f0172cfa611124c4dc6eee14ee4a45e67589",
       "git:hexsha": "8d96f0172cfa611124c4dc6eee14ee4a45e67589",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T08:57:01.641667+00:00"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/django-cors-headers/commit/349cd166f3d267c8c2a489c2afec3d070a334abb",
